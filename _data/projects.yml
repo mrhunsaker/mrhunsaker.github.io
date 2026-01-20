@@ -4,5 +4,10 @@
 ##   url: /workout-generator/
 
 - title: Workout Generator
-  url: /workout-generator/
+  url: /Workout_Generator/
   description: Simple workout plan generator (edit or remove this example)
+
+- title: JAWS Scripting Language Manual
+  url: /JAWS-Scripting-From-Scratch
+  description: Comprehensive manual for JAWS Scripting Language (edit or remove this example)
+

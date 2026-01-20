@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
+# Ensure CI and local development use the same Ruby major.minor
+# Matches the Actions workflow which requests Ruby 3.2
+ruby '3.2.0'
+
 # We replace github-pages with jekyll 4.3
 gem "jekyll", "~> 4.3.4"
 gem "webrick", "~> 1.8"

@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-# Ensure CI and local development use the same Ruby major.minor
-# Matches the Actions workflow which requests Ruby 3.2
-ruby '4.0.1'
+# Ensure CI and local development use the same Ruby patch version
+# Matches the Actions runner which uses Ruby 3.2.6
+ruby '3.2.6'
 
 # We replace github-pages with jekyll 4.3
 gem "jekyll", "~> 4.3.4"

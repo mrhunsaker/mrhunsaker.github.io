@@ -6,6 +6,18 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+{% if site.data.projects and site.data.projects.size > 0 %}
+  <h3 class="archive__subtitle">Other Projects</h3>
+  <ul class="projects-list">
+    {% for p in site.data.projects %}
+      <li>
+        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+        {% if p.description %} — {{ p.description }}{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}

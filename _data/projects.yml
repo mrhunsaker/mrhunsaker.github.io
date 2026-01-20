@@ -3,11 +3,14 @@
 ## - title: Workout Generator
 ##   url: /workout-generator/
 
-- title: Workout Generator
-  url: /Workout_Generator/
-  description: Simple workout plan generator (edit or remove this example)
-
 - title: JAWS Scripting Language Manual
-  url: /JAWS-Scripting-From-Scratch
-  description: Comprehensive manual for JAWS Scripting Language (edit or remove this example)
+  url: /JAWS-Scripting-From-Scratch/
+  description: Manual for the JAWS Scripting Language made with mdbook. 
 
+- title: Graph Digitizer API Documentation
+  url: /Graph_Digitizer_Java_Implementation/
+  description: API documentation for the Java implementation of Graph Digitizer
+
+- title: Student Data Tracking and Management
+  url: /StudentGUI/
+  description: Java application for tracking and storing student data. Focused on skills development for visually impaired students.

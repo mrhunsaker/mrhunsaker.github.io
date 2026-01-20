@@ -1,0 +1,17 @@
+## Add your projects here. Each entry should include `title` and `url`.
+## Example:
+## - title: Workout Generator
+##   url: /workout-generator/
+
+- title: TVI Resources Home Page
+  url: https://TVIResources.github.io
+  description: Central hub for 3D printing, technology, and coding resources related to Teaching Visually Impaired Students
+
+- title: Introduction to Coding Python with a Screenreader
+  url: https://vscode.dev/edu?courseId=df2f45f9-e840-409f-b2bc-7666056c961b&workspace-scheme=vscode-edu-workspace
+  description: A fully screenreader accessible course to learn Python coding using Visual Studio Code Online
+
+- title: ebraille 1.0 specifications
+  url: https://daisy.github.io/ebraille/published/1.0/
+  description: Specifications for the ebraille format version 1.0
+

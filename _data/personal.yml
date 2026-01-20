@@ -1,0 +1,10 @@
+## Add your projects here. Each entry should include `title` and `url`.
+## Example:
+## - title: Workout Generator
+##   url: /workout-generator/
+
+- title: Workout Generator
+  url: /Workout_Generator/
+  description: Simple workout plan generator
+
+

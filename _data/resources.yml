@@ -7,6 +7,10 @@
   url: https://TVIResources.github.io
   description: Central hub for 3D printing, technology, and coding resources related to Teaching Visually Impaired Students
 
+- title: 3D Printing Resources Catalog
+  url: https://mrhunsaker.github.io3dprint/
+  description: Internal Catalog of compelted projects avaiable for Davis School District Teachers to Order. Also has training, self guided lesson plans, and instructions on how to make puppets
+
 - title: Introduction to Coding Python with a Screenreader
   url: https://vscode.dev/edu?courseId=df2f45f9-e840-409f-b2bc-7666056c961b&workspace-scheme=vscode-edu-workspace
   description: A fully screenreader accessible course to learn Python coding using Visual Studio Code Online
@@ -15,3 +19,6 @@
   url: https://daisy.github.io/ebraille/published/1.0/
   description: Specifications for the ebraille format version 1.0
 
+- title: JAWS Scripting Language Manual
+  url: https://mrhunsaker.github.io/JAWS-Scripting-From-Scratch/
+  description: JAWS Scripting Manual I am working on using mdbook from rust to create a fully accessible gitbook providing basic and advanced information regarding the JAWS Scruipting Language and scripting concepts necessary to apply it.

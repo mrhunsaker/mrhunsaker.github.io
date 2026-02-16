@@ -14,3 +14,7 @@
 - title: Student Data Tracking and Management
   url: /StudentGUI/
   description: Java application for tracking and storing student data. Focused on skills development for visually impaired students.
+
+- title: 3D Printing Project Tracking GUI
+  url: /3dprint-catalog-tracking-gui/
+  description: Java application for tracking 3D printing projects, including project details, progress, and deadlines.

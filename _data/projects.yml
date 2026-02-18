@@ -12,7 +12,7 @@
   description: API documentation for the Java implementation of Graph Digitizer
 
 - title: Student Data Tracking and Management
-  url: /StudentGUI/
+  url: /StudentGUI_java/
   description: Java application for tracking and storing student data. Focused on skills development for visually impaired students.
 
 - title: 3D Printing Project Tracking GUI

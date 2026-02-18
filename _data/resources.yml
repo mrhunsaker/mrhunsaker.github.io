@@ -18,7 +18,3 @@
 - title: ebraille 1.0 specifications
   url: https://daisy.github.io/ebraille/published/1.0/
   description: Specifications for the ebraille format version 1.0
-
-- title: JAWS Scripting Language Manual
-  url: https://mrhunsaker.github.io/JAWS-Scripting-From-Scratch/
-  description: JAWS Scripting Manual I am working on using mdbook from rust to create a fully accessible gitbook providing basic and advanced information regarding the JAWS Scruipting Language and scripting concepts necessary to apply it.

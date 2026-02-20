@@ -3,6 +3,10 @@
 ## - title: Workout Generator
 ##   url: /workout-generator/
 
+- title: 3D Printing Course Curriculum for the Blind and Visually Impaired
+  url: /VI_3DMake_OpenSCAD_Curriculum/
+  description: OpenSCAD lessons for visually Impaired and blind students using OpenSCAD and 3DMake -- made with mdbook. 
+
 - title: JAWS Scripting Language Manual
   url: /JAWS-Scripting-From-Scratch/
   description: Manual for the JAWS Scripting Language made with mdbook. 

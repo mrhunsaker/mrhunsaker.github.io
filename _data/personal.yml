@@ -1,10 +1,27 @@
-## Add your projects here. Each entry should include `title` and `url`.
-## Example:
-## - title: Workout Generator
-##   url: /workout-generator/
+## Personal Projects shown on the home page splash.
+## Each entry needs `title` and `url`; `description` is optional.
+## Files in _data/ are loaded by Jekyll as site.data.<filename>
 
 - title: Workout Generator
   url: /Workout_Generator/
   description: Simple workout plan generator
 
+- title: Notepadia Theia
+  url: /notepadia-theia/
+  description: Attempt at a Notepad++ clone built on the Theia platform
 
+- title: Identification of Neural Markers Accompanying Memory
+  url: /BehavModelsMemoryChapter/
+  description: Chapter on behavioral models of memory and neural markers
+
+- title: Mouse Models of Fragile X Tremor/Ataxia Syndrome
+  url: /CGGKIMotor/
+  description: "Chapter written for Mouse Models of Fragile X Tremor/Ataxia Syndrome, Movement Disorders: Genetics and Models, Second Edition"
+
+- title: Kesner Festschrift Chapter
+  url: /KesnerFestschrift/
+  description: A chapter written in honor of Raymond P. Kesner's Festschrift
+
+- title: Hunsaker 2013 - OA Neurosciences
+  url: /Hunsaker_2013_OANeurosciences/
+  description: Manuscript published in OA Neurosciences, Vol 1

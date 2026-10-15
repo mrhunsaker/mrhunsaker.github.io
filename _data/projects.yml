@@ -1,15 +1,14 @@
-## Add your projects here. Each entry should include `title` and `url`.
-## Example:
-## - title: Workout Generator
-##   url: /workout-generator/
+## Professional Projects shown on the home page splash.
+## Each entry needs `title` and `url`; `description` is optional.
+## Files in _data/ are loaded by Jekyll as site.data.<filename>
 
 - title: 3D Printing Course Curriculum for the Blind and Visually Impaired
   url: /VI_3DMake_OpenSCAD_Curriculum/
-  description: OpenSCAD lessons for visually Impaired and blind students using OpenSCAD and 3DMake -- made with mdbook. 
+  description: OpenSCAD lessons for visually Impaired and blind students using OpenSCAD and 3DMake -- made with mdbook.
 
 - title: JAWS Scripting Language Manual
   url: /JAWS-Scripting-From-Scratch/
-  description: Manual for the JAWS Scripting Language made with mdbook. 
+  description: Manual for the JAWS Scripting Language made with mdbook.
 
 - title: Graph Digitizer API Documentation
   url: /Graph_Digitizer_Java_Implementation/
@@ -22,3 +21,43 @@
 - title: 3D Printing Project Tracking GUI
   url: /3dprint-catalog-tracking-gui/
   description: Java application for tracking 3D printing projects, including project details, progress, and deadlines.
+
+- title: 3dMake GUI
+  url: /3dmakeGUI/
+  description: GUI for the 3dMake tool
+
+- title: 3dMake VS Code Extension
+  url: /3dmake_vscode_extension/
+  description: VS Code Extension for running 3dMake
+
+- title: Accessibility Project Management
+  url: /AccessibilityProjectmanagement/
+  description: Project management GUI in NiceGUI (Python) for accessible document and object creation professionals
+
+- title: Assistive Switch Interfaces
+  url: /Assistive_Switch_Interfaces/
+  description: C++ code for the ESP32 controlling assistive switch and touch-controlled devices
+
+- title: Environmental Object Visual Acuity Calculator
+  url: /EnvironmentalObjectVisualAcuity/
+  description: NiceGUI application to calculate visual acuity using size of objects and distances in the environment
+
+- title: Folge Accessibility Scripts
+  url: /Folge_Accessibility/
+  description: Post-processing scripts to make outputs from Folge.me accessible for the visually impaired
+
+- title: Gaze Tracking
+  url: /GazeTracking/
+  description: Gaze tracking for use in an academic setting
+
+- title: NeuroImaging Codes
+  url: /NeuroImaging_Codes/
+  description: Pipeline for neuroimaging analysis
+
+- title: PlainScript
+  url: /PlainScript/
+  description: Theia-based accessible text and code editor
+
+- title: RB Switch
+  url: /RB_SWITCH/
+  description: Accessibility switch with three buttons for previous, select, and next

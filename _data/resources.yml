@@ -1,11 +1,14 @@
-## Add your projects here. Each entry should include `title` and `url`.
-## Example:
-## - title: Workout Generator
-##   url: /workout-generator/
+## Instructional Materials shown on the home page splash.
+## Each entry needs `title` and `url`; `description` is optional.
+## Files in _data/ are loaded by Jekyll as site.data.<filename>
 
 - title: TVI Resources Home Page
   url: https://TVIResources.github.io
   description: Central hub for 3D printing, technology, and coding resources related to Teaching Visually Impaired Students
+
+- title: TVI Resources Instructional Site
+  url: https://mrhunsaker.github.io/tviresources.github.io/
+  description: Website with instructional resources for teachers of visually impaired and blind students
 
 - title: 3D Printing Resources Catalog
   url: https://mrhunsaker.github.io/3dprint/
@@ -18,3 +21,11 @@
 - title: ebraille 1.0 specifications
   url: https://daisy.github.io/ebraille/published/1.0/
   description: Specifications for the ebraille format version 1.0
+
+- title: Hippocampus Tracing Protocol
+  url: /Hippocampus_Protocol/
+  description: Manual tracing protocol for the rhesus macaque hippocampus
+
+- title: Switch Access Instructions
+  url: /SwitchAccessInstructions/
+  description: Instructions for setting up and using accessibility switches in an educational setting

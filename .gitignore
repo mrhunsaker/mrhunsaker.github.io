@@ -6,3 +6,6 @@ _site/
 .bundle/
 vendor/
 Gemfile.lock
+# IDE and Python tooling
+.idea/
+.venv/

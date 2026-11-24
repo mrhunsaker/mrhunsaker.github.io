@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 
-# Ensure CI and local development use the same Ruby patch version
-# Matches the Actions runner which uses Ruby 3.2.6
-#ruby '3.2.6'
+# CI uses the latest Ruby 3.2 patch release.
 
 # We replace github-pages with jekyll 4.3
 gem "jekyll", "~> 4.3.4"

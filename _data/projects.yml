@@ -6,9 +6,6 @@
   url: /VI_3DMake_OpenSCAD_Curriculum/
   description: OpenSCAD lessons for visually Impaired and blind students using OpenSCAD and 3DMake -- made with mdbook.
 
-- title: JAWS Scripting Language Manual
-  url: /JAWS-Scripting-From-Scratch/
-  description: Manual for the JAWS Scripting Language made with mdbook.
 
 - title: Graph Digitizer API Documentation
   url: /Graph_Digitizer_Java_Implementation/
@@ -61,3 +58,15 @@
 - title: RB Switch
   url: /RB_SWITCH/
   description: Accessibility switch with three buttons for previous, select, and next
+
+- title: Braille Image Transcription
+  url: /Braille-Image-Transcription/
+  description: Python-based program that removes alphanumeric information from images and replaces it with Unicode Braille characters
+
+- title: Switch Access iPadOS App
+  url: /Switch_Access_iPadOS_App/
+  description: iPadOS app prototype for teaching and reinforcing switch access to K-12 students with visual impairments and cerebral palsy
+
+- title: TactiDiagram
+  url: /TactiDiagram/
+  description: Turns textbook diagrams into print-ready tactile graphics with Braille labels, entirely in the browser

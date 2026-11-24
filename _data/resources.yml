@@ -29,3 +29,15 @@
 - title: Switch Access Instructions
   url: /SwitchAccessInstructions/
   description: Instructions for setting up and using accessibility switches in an educational setting
+
+- title: BrailleBlaster Training
+  url: /BrailleBlaster_Training/
+  description: Training materials for BrailleBlaster version 3.2
+
+- title: Teacher LLM Training
+  url: /Teacher_LLM_Training/
+  description: LLM training for teachers of students with visual impairments
+
+- title: VI-Focused Coding Curricula
+  url: /VI_Focused_Coding_Curricula/
+  description: Four complete introductory programming curricula adapted for visually impaired students who use screen readers
